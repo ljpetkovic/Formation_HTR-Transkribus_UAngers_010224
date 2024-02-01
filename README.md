@@ -1,7 +1,7 @@
 # Formation OCR · HTR et Transkribus
 ### Informations pratiques
 
-<table align="center" style="font-size: 23px;">
+<table align="center" style="font-size: 20px;">
     <tr>
         <td align="left"><b>Formation</b></td>
         <td align="left">M2 « Bibliothèques et archives de l'université d'Angers »</td>
@@ -20,7 +20,7 @@
     </tr>
     <tr>
         <td align="left"><b>Salle</b></td>
-        <td align="left">D140 (salle informatique), campus Belle Beille, faculté de lettres (LLSH), université d'Angers</td>
+        <td align="left">D140 (salle informatique), campus Belle Beille, Faculté de lettres (LLSH), université d'Angers</td>
     </tr>
     <tr style="background-color: white;">
         <td align="left"><b>Horaire</b></td>
