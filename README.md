@@ -1,36 +1,36 @@
 # Formation OCR · HTR et Transkribus
 ### Informations pratiques
 
-<table align="center">
-    <tr style="font-size: 14px;">
+<table align="center" style="font-size: 23px;">
+    <tr>
         <td align="left"><b>Formation</b></td>
         <td align="left">M2 « Bibliothèques et archives de l'université d'Angers »</td>
     </tr>
-    <tr style="font-size: 14px; background-color: white;">
+    <tr style="background-color: white;">
         <td align="left"><b>Modalité</b></td>
         <td align="left">présentiel</td>
     </tr>
-    <tr style="font-size: 14px; background-color: white;">
+    <tr style="background-color: white;">
         <td align="left"><b>Enseignante</b></td>
         <td align="left">Ljudmila PETKOVIC</td>
     </tr>
-    <tr style="font-size: 14px; background-color: white;">
+    <tr style="background-color: white;">
         <td align="left"><b>Semestre</b></td>
         <td align="left">printemps (S2)</td>
     </tr>
-    <tr style="font-size: 14px; background-color: white;">
+    <tr>
         <td align="left"><b>Salle</b></td>
-        <td align="left">D140 (salle informatique), campus Belle Beille, Faculté de lettres (LLSH), université d'Angers</td>
+        <td align="left">D140 (salle informatique), campus Belle Beille, Faculté de lettres (LLSH), univ. d'Angers</td>
     </tr>
-    <tr style="font-size: 14px; background-color: white;">
+    <tr style="background-color: white;">
         <td align="left"><b>Horaire</b></td>
         <td align="left">le 1 février, 13h30-16h25</td>
     </tr>
-    <tr style="font-size: 14px; background-color: white;">
+    <tr>
         <td align="left"><b>Langue</b></td>
         <td align="left">français</td>
     </tr>
-    <tr style="font-size: 14px; background-color: white;">
+    <tr>
         <td align="left"><b>Matériel</b></td>
         <td align="left"><a href="https://moodle.univ-angers.fr/my/">Moodle</a></td>
     </tr>
