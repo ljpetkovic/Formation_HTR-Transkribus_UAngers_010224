@@ -70,7 +70,7 @@ Aucune connaissance préalable en programmation n'est requise.
 
 ### Citer ce dépôt
 
-Ljudmila Petkovic, _Formation OCR · HTR et Transkribus_, Angers : université d'Angers, 2024 https://github.com/ljpetkovic/Formation_HTR-Transkribus_UAngers_010224
+Ljudmila Petkovic, _Formation OCR · HTR et Transkribus_, Angers : université d'Angers, 2024. https://github.com/ljpetkovic/Formation_HTR-Transkribus_UAngers_010224
 
 ---
 
