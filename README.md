@@ -20,7 +20,7 @@
     </tr>
     <tr>
         <td align="left"><b>Salle</b></td>
-        <td align="left">D140 (salle informatique), campus Belle Beille, Faculté de lettres (LLSH), univ. d'Angers</td>
+        <td align="left">D140, campus Belle Beille, Faculté de lettres (LLSH), université d'Angers</td>
     </tr>
     <tr style="background-color: white;">
         <td align="left"><b>Horaire</b></td>
@@ -29,6 +29,10 @@
     <tr>
         <td align="left"><b>Langue</b></td>
         <td align="left">français</td>
+    </tr>
+        <tr>
+        <td align="left"><b>Ordinateurs</b></td>
+        <td align="left">disponibles en salle informatique (D140)</td>
     </tr>
     <tr>
         <td align="left"><b>Matériel</b></td>
