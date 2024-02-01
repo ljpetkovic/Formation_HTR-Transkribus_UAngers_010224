@@ -1,7 +1,7 @@
 # Formation OCR · HTR et Transkribus
 ### Informations pratiques
 
-<table align="center" style="font-size: 16px;">
+<table align="center" style="font-size: 14px;">
     <tr>
         <td align="left"><b>Formation</b></td>
         <td align="left">M2 « Bibliothèques et archives de l'université d'Angers »</td>
