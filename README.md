@@ -20,7 +20,7 @@
     </tr>
     <tr>
         <td align="left"><b>Salle</b></td>
-        <td align="left">D140 (salle informatique), campus Belle Beille, faculté de lettres (LLSH)</td>
+        <td align="left">D140 (salle informatique), campus Belle Beille, faculté de lettres (LLSH), université d'Angers</td>
     </tr>
     <tr style="background-color: white;">
         <td align="left"><b>Horaire</b></td>
